@@ -1,12 +1,12 @@
 ---
-firstName: Jonathan
-lastName: Harwood
-avatar: /uploads/avatar.jpg
-position: Fullstack developer
-phone: "123123123"
-email: jonathan.harwood@gmail.com
-city: Wroclaw
-country: Poland
+firstName: Tolga
+lastName: Yılmaz
+avatar: /uploads/img.jpg
+position: Motion Graphic Designer
+phone: ""
+email: tolgayilmaz.k@gmail.com
+city: Istanbul
+country: Turkey
 isFreelancer: true
 cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
 socialMedia:
