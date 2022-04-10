@@ -6,6 +6,12 @@ backend:
 media_folder: public/uploads
 public_folder: /uploads
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: tolgayilmaz-cloud
+    api_key: 761771514428915
+
 collections:
   - label: "General"
     name: "general"
