@@ -14,4 +14,5 @@ socialMedia:
   github: https://github.com/
   instagram: https://www.instagram.com/
   facebook: https://www.facebook.com/
+  linkedin: https://www.linkedin.com/
 ---
