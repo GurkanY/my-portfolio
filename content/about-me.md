@@ -4,13 +4,13 @@ description: "### Hello, I'm a Motion Designer based in Istanbul. I have an
   naturally led me to this profession. Basically, I'm a geeky guy who loves to
   learn."
 skills:
-  - name: HTML
-    category: Technologies
-    icon: /uploads/logo-html5.svg
+  - name: Adobe After Effects
+    category: Tools
+    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632499/Adobe_After_Effects_CC_icon_pdihss.svg
     value: 5
-  - name: CSS
+  - name: Adobe Photoshop
     category: Technologies
-    icon: /uploads/logo-css.svg
+    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
     value: 5
   - name: JavaScript
     category: Technologies
