@@ -1,8 +1,8 @@
 ---
-description: Hello, I'm a **Motion Designer** based in **Istanbul**. I have an
+description: "### Hello, I'm a Motion Designer based in Istanbul. I have an
   interest in everything that includes *technology*, *art*, and *design*. This
   naturally led me to this profession. Basically, I'm a geeky guy who loves to
-  learn.
+  learn."
 skills:
   - name: HTML
     category: Technologies
