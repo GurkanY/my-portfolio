@@ -16,6 +16,7 @@ type Developer = {
     github?: string;
     instagram?: string;
     twitter?: string;
+    linkedin?: string;
   };
 };
 

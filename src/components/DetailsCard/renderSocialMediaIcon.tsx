@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react';
-import { Facebook, GitHub, Instagram, Twitter } from 'react-feather';
+import { Facebook, GitHub, Instagram, Twitter, Linkedin } from 'react-feather';
 
 import type { SocialMediaName } from './DetailsCard.types';
 
@@ -8,6 +8,7 @@ const socialMediaIcons = {
   github: GitHub,
   twitter: Twitter,
   instagram: Instagram,
+  linkedin: Linkedin,
 };
 
 export const renderSocialMediaIcon = (socialMediaName: SocialMediaName, className: string): ReactElement => {

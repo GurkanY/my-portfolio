@@ -18,6 +18,7 @@ export const DetailsCard = ({ type }: DetailsCardProps) => {
       { name: 'github', link: developer.socialMedia.github ?? '' },
       { name: 'twitter', link: developer.socialMedia.twitter ?? '' },
       { name: 'instagram', link: developer.socialMedia.instagram ?? '' },
+      { name: 'linkedin', link: developer.socialMedia.linkedin ?? '' },
     ],
     phone: developer.phone,
     email: developer.email,

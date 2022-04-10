@@ -1,6 +1,6 @@
 import { ScreenSize } from '@/typings';
 
-export type SocialMediaName = 'facebook' | 'twitter' | 'instagram' | 'github';
+export type SocialMediaName = 'facebook' | 'twitter' | 'instagram' | 'github' | 'linkedin';
 
 type SocialMedia = { name: SocialMediaName; link: string }[];
 
