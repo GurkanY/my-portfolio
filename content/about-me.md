@@ -12,37 +12,37 @@ skills:
     category: Technologies
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
     value: 5
-  - name: JavaScript
+  - name: Adobe Premiere
     category: Technologies
     icon: /uploads/logo-javascript.svg
     value: 5
-  - name: TypeScript
+  - name: Adobe Illustrator
     category: Technologies
-    icon: /uploads/logo-typescript.svg
-    value: 4
-  - name: React.js
+    icon: /uploads/logo-mongo.svg
+    value: 3
+  - name: BorisFX Mocha Pro
     category: Technologies
     icon: /uploads/logo-react.svg
-    value: 3
-  - name: SASS
+    value: 4
+  - name: Cinema 4D
     category: Technologies
-    icon: /uploads/logo-sass.svg
+    icon: /uploads/logo-typescript.svg
     value: 3
-  - name: Node.js
+  - name: HTML
+    category: Technologies
+    icon: /uploads/logo-express.svg
+    value: 4
+  - name: CSS
+    category: Technologies
+    icon: /uploads/logo-postgres.svg
+    value: 4
+  - name: Javascript
     category: Technologies
     icon: /uploads/logo-node.svg
     value: 4
-  - name: Express
+  - name: Python
     category: Technologies
-    icon: /uploads/logo-express.svg
-    value: 5
-  - name: PostgreSQL
-    category: Technologies
-    icon: /uploads/logo-postgres.svg
-    value: 2
-  - name: MongoDB
-    category: Technologies
-    icon: /uploads/logo-mongo.svg
+    icon: /uploads/logo-sass.svg
     value: 3
   - name: Docker
     category: Tools
@@ -64,23 +64,11 @@ skills:
     category: Tools
     icon: /uploads/logo-webpack.svg
     value: 2
-  - name: Polish - native
+  - name: Turkish - native
     category: Other
     value: 5
-  - name: English (C1)
+  - name: English
     category: Other
-    value: 4
-testimonials:
-  - content: Mauris suscipit risus ut lorem consequat, id gravida sem vulputate.
-      Donec pharetra mi ac elit hendrerit, at viverra risus fermentum. Proin sit
-      amet viverra dolor.
-    authorImage: /uploads/testimonial-1.jpg
-    authorName: Marlene Watson
-    authorJob: CEO of Donec
-  - content: Suspendisse ullamcorper massa nec lectus volutpat malesuada. Proin at
-      nibh dui. Nunc at tincidunt mauris, non sagittis libero. Proin porta id
-      elit sit amet maximus.
-    authorImage: /uploads/testimonial-2.jpg
-    authorName: Gabe Mcdonalid
-    authorJob: Marketing specialist in Railroad
+    value: 3
+testimonials: []
 ---
