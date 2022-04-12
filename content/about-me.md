@@ -14,20 +14,12 @@ skills:
     value: 3
   - name: Blender
     category: Tools
-    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796446/1280px-Logo_Blender.svg_r2ktld.png
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796668/2503px-Blender_logo_no_text.svg_faeejf.png
     value: 4
   - name: Adobe Photoshop
     category: Tools
     icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796224/1024px-Adobe_Photoshop_CC_icon.svg_l5voam.png
     value: 5
-  - name: HTML
-    category: Technologies
-    icon: /uploads/logo-express.svg
-    value: 4
-  - name: CSS
-    category: Technologies
-    icon: /uploads/logo-postgres.svg
-    value: 4
   - name: Turkish - native
     category: Other
     value: 5
