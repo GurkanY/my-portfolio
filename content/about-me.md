@@ -1,10 +1,7 @@
 ---
-description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
-  interest in everything that includes *technology*, *art*, and *design*. This
-  naturally led me to this profession. Basically, I'm a geeky guy who loves to
-  learn."
+description: "#### Hello, I'm Gurkan. I am a 3D Artist working as a freelance. I am interested in anything involving technology, art and design. This naturally led me to this profession. Basically, I'm a guy who likes to learn."
 skills:
-  - name: Adobe After Effects
+  - name: 3DS Max
     category: Tools
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632499/Adobe_After_Effects_CC_icon_pdihss.svg
     value: 5
