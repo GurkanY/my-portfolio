@@ -44,10 +44,10 @@ skills:
   - name: Cinema 4D
     category: Tools
     icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649795075/cinema-4d_foty6l.png
-    value: 4
-  - name: Gatsby
+    value: 3
+  - name: Blender
     category: Tools
-    icon: /uploads/logo-gatsby.svg
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649795215/blender_lguaay.ico
     value: 3
   - name: Git
     category: Tools
