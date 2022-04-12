@@ -4,7 +4,7 @@ skills:
   - name: 3ds Max
     category: Tools
     icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649794772/3ds_max_dhbeui.png
-    value: 5
+    value: 6
   - name: Adobe Photoshop
     category: Technologies
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
@@ -41,10 +41,10 @@ skills:
     category: Technologies
     icon: /uploads/logo-sass.svg
     value: 3
-  - name: Docker
+  - name: Cinema 4D
     category: Tools
-    icon: /uploads/logo-docker.svg
-    value: 1
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649795075/cinema-4d_foty6l.png
+    value: 4
   - name: Gatsby
     category: Tools
     icon: /uploads/logo-gatsby.svg
