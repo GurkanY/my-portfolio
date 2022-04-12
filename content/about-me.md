@@ -20,6 +20,18 @@ skills:
     category: Tools
     icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796224/1024px-Adobe_Photoshop_CC_icon.svg_l5voam.png
     value: 5
+  - name: HTML
+    category: Software
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649797505/1024px-HTML5_logo_and_wordmark.svg_owbqy3.png
+    value: 5
+  - name: CSS
+    category: Software
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649797553/800px-CSS3_logo_and_wordmark.svg_cbnwhw.png
+    value: 5
+  - name: LUA
+    category: Software
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649797601/1024px-Lua-Logo.svg_jwhmmx.png
+    value: 1
   - name: Turkish - native
     category: Other
     value: 5
