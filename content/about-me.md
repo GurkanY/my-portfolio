@@ -4,22 +4,18 @@ description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
   naturally led me to this profession. Basically, I'm a geeky guy who loves to
   learn."
 skills:
-  - name: Adobe Photoshop
-    category: Technologies
-    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
+  - name: 3ds Max
+    category: Tools
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796125/3dsMax2017_ulatsh.png
     value: 5
-  - name: Adobe Premiere
-    category: Technologies
-    icon: /uploads/logo-javascript.svg
-    value: 5
-  - name: Adobe Illustrator
-    category: Technologies
-    icon: /uploads/logo-mongo.svg
+  - name: Cinema 4D
+    category: Tools
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796182/C4D_Logo_awwklv.png
     value: 3
-  - name: BorisFX Mocha Pro
-    category: Technologies
-    icon: /uploads/logo-react.svg
-    value: 4
+  - name: Adobe Photoshop
+    category: Tools
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796224/1024px-Adobe_Photoshop_CC_icon.svg_l5voam.png
+    value: 5
   - name: Cinema 4D
     category: Technologies
     icon: /uploads/logo-typescript.svg
