@@ -1,5 +1,5 @@
 ---
-description: "#### Hello, I'm Gurkan. I am a 3D Artist working as a freelance. And I've been a tech geek since childhood. Naturally, I like to feature projects that feature this technology, art, and interesting designs, and I'm always eager to learn something new."
+description: "Hello, I'm Gurkan. I am a 3D Artist working as a freelance. I enjoy highlighting projects involving technology, art, and interesting designs, and I'm always eager to learn something new."
 skills:
   - name: 3ds Max
     category: Tools
