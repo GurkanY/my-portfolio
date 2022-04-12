@@ -1,18 +1,18 @@
 ---
-firstName: Tolga
+firstName: Gürkan
 lastName: Yılmaz
 avatar: /uploads/img.jpg
-position: Motion Graphic Designer
+position: 3D Artist
 phone: ""
-email: tolgayilmaz.k@gmail.com
+email: gurkanyilmaz.k@gmail.com
 city: Istanbul
 country: Turkey
 isFreelancer: true
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://www.instagram.com/gurkanyilmaz.k
 socialMedia:
-  twitter: https://twitter.com/
-  github: https://github.com/
-  instagram: https://www.instagram.com/
+  twitter: https://twitter.com/gurkanyilmazk
+  github: https://github.com/GurkanY
+  instagram: https://www.instagram.com/gurkanyilmaz.k
   facebook: https://www.facebook.com/
-  linkedin: https://www.linkedin.com/
+  linkedin: https://www.linkedin.com/in/g%C3%BCrkan-y%C4%B1lmaz-4aba76204/
 ---
