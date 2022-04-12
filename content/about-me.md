@@ -1,7 +1,7 @@
 ---
-description: "#### Hello, I'm Gurkan. I am a 3D Artist working as a freelance. I am interested in anything involving technology, art and design. This naturally led me to this profession. Basically, I'm a guy who likes to learn."
+description: "#### Hello, I'm Gurkan. I am a 3D Artist working as a freelance. And I've been a tech geek since childhood. Naturally, I like to feature projects that feature this technology, art, and interesting designs, and I'm always eager to learn something new."
 skills:
-  - name: 3DS Max
+  - name: 3ds Max
     category: Tools
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632499/Adobe_After_Effects_CC_icon_pdihss.svg
     value: 5
