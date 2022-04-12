@@ -1,10 +1,13 @@
 ---
-description: "#### Hello, I'm Gurkan. I am a 3D Artist working as a freelance. I am interested in anything involving technology, art and design. This naturally led me to this profession. Basically, I'm a guy who likes to learn."
+description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
+  interest in everything that includes *technology*, *art*, and *design*. This
+  naturally led me to this profession. Basically, I'm a geeky guy who loves to
+  learn."
 skills:
-  - name: 3ds Max
+  - name: Adobe After Effects
     category: Tools
-    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649794772/3ds_max_dhbeui.png
-    value: 6
+    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632499/Adobe_After_Effects_CC_icon_pdihss.svg
+    value: 5
   - name: Adobe Photoshop
     category: Technologies
     icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
@@ -41,13 +44,13 @@ skills:
     category: Technologies
     icon: /uploads/logo-sass.svg
     value: 3
-  - name: Cinema 4D
+  - name: Docker
     category: Tools
-    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649795075/cinema-4d_foty6l.png
-    value: 3
-  - name: Blender
+    icon: /uploads/logo-docker.svg
+    value: 1
+  - name: Gatsby
     category: Tools
-    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649795215/blender_lguaay.ico
+    icon: /uploads/logo-gatsby.svg
     value: 3
   - name: Git
     category: Tools
