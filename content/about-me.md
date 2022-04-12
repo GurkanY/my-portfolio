@@ -1,69 +1,25 @@
 ---
-description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
-  interest in everything that includes *technology*, *art*, and *design*. This
-  naturally led me to this profession. Basically, I'm a geeky guy who loves to
-  learn."
+description: "#### **Hello, I'm Gurkan. I am a freelance 3d artist. Since my
+  childhood, I was very interested in technology and interesting projects. This
+  curiosity led me to this profession. I enjoy learning new things and I enjoy
+  doing interesting things.**"
 skills:
-  - name: Adobe After Effects
+  - name: 3ds Max
     category: Tools
-    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632499/Adobe_After_Effects_CC_icon_pdihss.svg
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796125/3dsMax2017_ulatsh.png
     value: 5
-  - name: Adobe Photoshop
-    category: Technologies
-    icon: https://res.cloudinary.com/tolgayilmaz-cloud/image/upload/v1649632713/Adobe_Photoshop_CC_icon_gknkap.svg
-    value: 5
-  - name: Adobe Premiere
-    category: Technologies
-    icon: /uploads/logo-javascript.svg
-    value: 5
-  - name: Adobe Illustrator
-    category: Technologies
-    icon: /uploads/logo-mongo.svg
-    value: 3
-  - name: BorisFX Mocha Pro
-    category: Technologies
-    icon: /uploads/logo-react.svg
-    value: 4
   - name: Cinema 4D
-    category: Technologies
-    icon: /uploads/logo-typescript.svg
+    category: Tools
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796182/C4D_Logo_awwklv.png
     value: 3
-  - name: HTML
-    category: Technologies
-    icon: /uploads/logo-express.svg
+  - name: Blender
+    category: Tools
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796668/2503px-Blender_logo_no_text.svg_faeejf.png
     value: 4
-  - name: CSS
-    category: Technologies
-    icon: /uploads/logo-postgres.svg
-    value: 4
-  - name: Javascript
-    category: Technologies
-    icon: /uploads/logo-node.svg
-    value: 4
-  - name: Python
-    category: Technologies
-    icon: /uploads/logo-sass.svg
-    value: 3
-  - name: Docker
+  - name: Adobe Photoshop
     category: Tools
-    icon: /uploads/logo-docker.svg
-    value: 1
-  - name: Gatsby
-    category: Tools
-    icon: /uploads/logo-gatsby.svg
-    value: 3
-  - name: Git
-    category: Tools
-    icon: /uploads/logo-git.svg
-    value: 4
-  - name: Heroku
-    category: Tools
-    icon: /uploads/logo-heroku.svg
-    value: 3
-  - name: Webpack
-    category: Tools
-    icon: /uploads/logo-webpack.svg
-    value: 2
+    icon: https://res.cloudinary.com/dakwey0os/image/upload/v1649796224/1024px-Adobe_Photoshop_CC_icon.svg_l5voam.png
+    value: 5
   - name: Turkish - native
     category: Other
     value: 5
