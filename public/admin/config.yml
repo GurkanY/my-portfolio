@@ -9,8 +9,8 @@ public_folder: /uploads
 media_library:
   name: cloudinary
   config:
-    cloud_name: tolgayilmaz-cloud
-    api_key: 761771514428915
+    cloud_name: dakwey0os
+    api_key: 732796886195866
 
 collections:
   - label: "General"
