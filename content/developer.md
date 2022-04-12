@@ -1,7 +1,7 @@
 ---
 firstName: Gürkan
 lastName: Yılmaz
-avatar: /uploads/img.jpg
+avatar: https://res.cloudinary.com/dakwey0os/image/upload/v1649793332/-nRFoMcb_400x400_ytpyhu.jpg
 position: 3D Artist
 phone: ""
 email: gurkanyilmaz.k@gmail.com
