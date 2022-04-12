@@ -1,8 +1,8 @@
 ---
-description: "#### Hello, I'm a Motion Designer based in Istanbul. I have an
-  interest in everything that includes *technology*, *art*, and *design*. This
-  naturally led me to this profession. Basically, I'm a geeky guy who loves to
-  learn."
+description: "#### **Hello, I'm Gurkan. I am a freelance 3d artist. Since my
+  childhood, I was very interested in technology and interesting projects. This
+  curiosity led me to this profession. I enjoy learning new things and I enjoy
+  doing interesting things.**"
 skills:
   - name: 3ds Max
     category: Tools
