@@ -13,6 +13,6 @@ socialMedia:
   twitter: https://twitter.com/gurkanyilmazk
   github: https://github.com/GurkanY
   instagram: https://www.instagram.com/gurkanyilmaz.k
-  facebook: https://www.facebook.com/
+  facebook: https://www.facebook.com/gurkanyilmazk
   linkedin: https://www.linkedin.com/in/g%C3%BCrkan-y%C4%B1lmaz-4aba76204/
 ---
